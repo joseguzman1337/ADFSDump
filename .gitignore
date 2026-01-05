@@ -3,3 +3,6 @@
 */bin/*
 .vs/*
 /ADFSDump.sln.DotSettings.user.bak
+
+# macOS system files
+._*
